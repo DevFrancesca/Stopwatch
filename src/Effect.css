@@ -1,0 +1,39 @@
+.wCon{
+    width: 40%;
+    height: 80%;
+    /* background-color: rgb(255, 242, 0); */
+    background-color: rgb(15, 15, 191);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    border-radius: 30px;
+}
+.watch{
+    width: 50%;
+    height: 50%;
+    /* background-color: rgb(26, 255, 0); */
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+}
+.watch h1{
+    font-size: 5rem;
+    color: white;
+}
+.Btn{
+    width: 60%;
+    height: 20%;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.Btn button{
+    padding: 20px 30px;
+    background-color: black;
+    border-radius: 30px;
+    border: none;
+    color: whitesmoke;
+}
